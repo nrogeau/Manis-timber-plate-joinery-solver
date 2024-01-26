@@ -16,7 +16,7 @@ The tool allows:
 * generating **robotic trajectories** to automate the assembly of the plates
 * generating **finite element models** suitable for structural analysis
 
-As images are often more powerfull than words, have a look at our [short trailer](https://youtu.be/UVL4SUBH-9A) if you didn't see it yet!
+As images are often more powerfull than words, have a look at our [short trailer](https://youtu.be/KfMYi0sp9nY) if you didn't see it yet!
 
 ### Reference
 For research applications, please refer to the following publication. It includes a detailed description of the algorithms behind the code: 
