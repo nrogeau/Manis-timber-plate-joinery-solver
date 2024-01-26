@@ -16,7 +16,7 @@ The tool allows:
 * generating **robotic trajectories** to automate the assembly of the plates
 * generating **finite element models** suitable for structural analysis
 
-As images are often more powerfull than words, have a look at our [short trailer](https://vimeo.com/635101614) if you didn't see it yet!
+As images are often more powerfull than words, have a look at our [short trailer](https://youtu.be/UVL4SUBH-9A) if you didn't see it yet!
 
 ### Reference
 For research applications, please refer to the following publication. It includes a detailed description of the algorithms behind the code: 
@@ -52,10 +52,10 @@ The plugin has 9 different tabs:
 
 ### Example files and tutorials
 The file `manis_demo.gh` contains some examples showing different applications of the joinery solver.
-A video tutorial is also available on IBOIS vimeo channel. The [first part](https://vimeo.com/635110679) focuses on the 3D modeling of the joints and the concept of modular assemblies while [the second part](https://vimeo.com/635112019) covers the generation of CNC toolpath and robot trajectories.
+A video tutorial is also available on IBOIS vimeo channel. The [first part](https://youtu.be/fj4rcQy4Bao) focuses on the 3D modeling of the joints and the concept of modular assemblies while [the second part](https://youtu.be/mLd-3iQQ6pc) covers the generation of CNC toolpath and robot trajectories.
 
-For a general overview of Manis workflow, you can refer to [this video](https://vimeo.com/635127909) in which the solver is applied to a boxed vault of 36 plates.
-We also recorded a [detailed explanation](https://vimeo.com/635128815) of the code that is behind the grasshopper component we use to perform the structural analysis of this doubly-curved timber vault. You can test it yourself by downloading the file `manis_annen.gh`
+For a general overview of Manis workflow, you can refer to [this video](https://youtu.be/yDCBeOH_Uck) in which the solver is applied to a boxed vault of 36 plates.
+We also recorded a [detailed explanation](https://youtu.be/FMEiQwgZKPg) of the code that is behind the grasshopper component we use to perform the structural analysis of this doubly-curved timber vault. You can test it yourself by downloading the file `manis_annen.gh`
 
 ## For developers
 
